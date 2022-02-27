@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr 13 11:20:35 2021
+# Process ID: 50060
+# Current directory: C:/Users/karim/Documents/GitHub/VHDL
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent57012 C:\Users\karim\Documents\GitHub\VHDL\project_1.1.xpr
+# Log file: C:/Users/karim/Documents/GitHub/VHDL/vivado.log
+# Journal file: C:/Users/karim/Documents/GitHub/VHDL\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/karim/Documents/GitHub/VHDL/project_1.1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1' since last save.
+INFO: [filemgmt 56-1] Board Part Repository Path: Directory not found as 'C:/../AppData/Roaming/Xilinx/Vivado/2020.2/xhub/board_store/xilinx_board_store'; using path 'C:/Users/karim/AppData/Roaming/Xilinx/Vivado/2020.2/xhub/board_store/xilinx_board_store' instead.
+INFO: [filemgmt 56-1] IP Repository Path: Directory not found as 'C:/Users/karim/Documents/GitHub/ip_repo/fact_ip_1.0'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/ip_repo/fact_ip_1.0' instead.
+INFO: [filemgmt 56-1] Default IP Output Path : Directory not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.gen/sources_1'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1' instead.
+INFO: [filemgmt 56-1] IPUserFilesDir: Directory not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.ip_user_files'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.ip_user_files' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.srcs/sources_1/new/fact.vhd'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.srcs/sources_1/new/fact.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/karim/Documents/GitHub/project_1_b/fact.vhd'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1_b/fact.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.srcs/sources_1/bd/design_1/design_1.bd'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.srcs/sources_1/bd/design_1/design_1.bd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.gen/sources_1/bd/design_1/hdl/design_1_wrapper.vhd'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/hdl/design_1_wrapper.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/karim/Documents/GitHub/VHDL/project_1.1.srcs/sources_1/ip/fact_ip_0/fact_ip_0.xci'; using path 'C:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.srcs/sources_1/ip/fact_ip_0/fact_ip_0.xci' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'fact_ip_0_synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'design_1_processing_system7_0_0_synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'design_1_fact_ip_0_0_synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'design_1_auto_pc_0_synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'design_1_rst_ps7_0_50M_0_synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'impl_1' not found
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/ip_repo/fact_ip_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx2/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-3664] IP 'design_1_fact_ip_0_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/ip/design_1_fact_ip_0_0/design_1_fact_ip_0_0.dcp'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_fact_ip_0_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/ip/design_1_fact_ip_0_0/design_1_fact_ip_0_0_stub.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_fact_ip_0_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/ip/design_1_fact_ip_0_0/design_1_fact_ip_0_0_stub.vhdl'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_fact_ip_0_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/ip/design_1_fact_ip_0_0/design_1_fact_ip_0_0_sim_netlist.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_fact_ip_0_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/bd/design_1/ip/design_1_fact_ip_0_0/design_1_fact_ip_0_0_sim_netlist.vhdl'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'fact_ip_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/ip/fact_ip_0/fact_ip_0.dcp'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'fact_ip_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/ip/fact_ip_0/fact_ip_0_stub.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'fact_ip_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/ip/fact_ip_0/fact_ip_0_stub.vhdl'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'fact_ip_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/ip/fact_ip_0/fact_ip_0_sim_netlist.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'fact_ip_0' generated file not found 'c:/Users/karim/Desktop/KarimDISK/DREX_20-21/SPRING_20-21/ECEC-661/project_1.1/project_1.1.gen/sources_1/ip/fact_ip_0/fact_ip_0_sim_netlist.vhdl'. Please regenerate to continue.
+open_project: Time (s): cpu = 00:00:53 ; elapsed = 00:00:33 . Memory (MB): peak = 1110.508 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 13 11:23:25 2021...
